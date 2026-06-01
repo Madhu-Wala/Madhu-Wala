@@ -5,7 +5,7 @@
 
 - 💻 Passionate about Full Stack Development using MERN Stack [JEETPoint](https://jeet-point.web.app/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Madhu-Wala](https://github.com/Madhu-Wala)
+- 👨‍💻 All of my projects are available at [https://github.com/Madhu-Wala](https://github.com/Madhu-Wala) and also on [Portfolio Website](https://portfolio-madhura.web.app/)
 
 - 📫 How to reach me **madhurasdw@gmail.com**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhura Walawalkar</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | AI/LLM Enthusiast | Building Real-World Projects| Java DSA Enthusiast | Exploring Blockchain</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | AI/LLM Enthusiast | Building Real-World Projects| Java DSA Enthusiast</h3>
 
 - 🎓 Computer Science Engineering student at VESIT, Mumbai
 
